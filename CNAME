@@ -1,7 +1,7 @@
- https://www.venkateswaraswamitemples.com/
-CNAME
-HOST:www
-value:venkateswara3689.github.io
+ www.venkateswaraswamitemples.com
+
+
+
 Type             HOST         Value                            TTL
 ARecord           @        185.199.108.153                   Automatic
 ARecord           @        185.199.109.153                   Automatic
